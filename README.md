@@ -14,6 +14,8 @@ I've worked with
 
 I'm currently learning and improving my skills in modern development practices, Git workflows, automation, data engineering concepts and cloud technologies.
 
+I'm a DJ too, but that's another story :D
+
 Let's Connect
  LinkedIn: [Johan Araujo](https://www.linkedin.com/in/johan-araujo-9952bb112)\
  Email: johan.araujo.17@gmail.com
